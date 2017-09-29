@@ -1,0 +1,2 @@
+# hug
+Test hugo site
